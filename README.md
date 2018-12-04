@@ -1,5 +1,5 @@
 # ajaxForm
-Simple script to transform regular form into ajax form
+Simple jQuery plugin to transform regular form into ajax form
 ## Installation
 Just include the script file wihtin your HTML page after including JQuery
 ```html
