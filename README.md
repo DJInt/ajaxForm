@@ -10,7 +10,7 @@ The script will automatically do:
 - Create a new ajax object
 - Assign form data (using .serialize() method) as the object's data attribute
 - Assign form action as the object's url attribute (if set)
-- Assign from method as the object's type attribute (if set)
+- Assign form method as the object's type attribute (if set)
 - Return the ajax object
 
 ## Usage
