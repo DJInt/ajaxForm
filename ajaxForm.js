@@ -7,6 +7,6 @@ $(document).ready(function(){
         if($(this).attr('method'))
             options.type = $(this).attr('method');
 
-        return jQuery.ajax(options);
+        return $.ajax(options);
     };
 });
